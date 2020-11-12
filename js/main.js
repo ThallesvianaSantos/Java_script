@@ -12,7 +12,7 @@ console.log(idade2+idade);
 console.log(frase.replace("japão","brasil"));
 alert(frase.replace("japão","brasil"));
 */
-
+/*
 var lista = ["maça","pera","laranja"];
 console.log(lista);
 lista.push("uva");
@@ -24,7 +24,7 @@ console.log(lista.toString()[0]);
 console.log(lista.join("|"));
 lista.pop();
 console.log(lista);
-
+*/
 /*
 var fruta = [{nome: "maça", cor:"vermelha"},{nome: "uva", cor:"goxo"},{nome: "morango", cor:"vermelha"}]
 console.log(fruta[1].nome);
